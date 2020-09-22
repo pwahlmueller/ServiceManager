@@ -6,7 +6,7 @@
 
 Import-Module SMLets -Force
 
-$MANR = 'MA716479'
+$MANR = 'MA0000'
 $SRNR = 'MA0000'
 
 $smdefaultcomputer = 'scsm'
